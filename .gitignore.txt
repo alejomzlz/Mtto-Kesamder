@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Streamlit
+.streamlit/
+
+# Base de datos local
+*.db
+*.sqlite
+*.sqlite3
+
+# Archivos temporales
+uploads/
+temp/
+*.tmp
+*.pdf
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
