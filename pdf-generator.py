@@ -1,4 +1,3 @@
-python
 """
 pdf_generator.py - Generador de reportes profesionales en PDF
 Optimizado para Streamlit con manejo de archivos temporales
