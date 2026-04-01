@@ -1,4 +1,3 @@
-python
 """
 app.py - Aplicación principal de gestión de mantenimiento industrial
 Optimizado para ejecución en Streamlit
