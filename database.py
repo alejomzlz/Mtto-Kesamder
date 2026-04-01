@@ -1,4 +1,3 @@
-python
 """
 database.py - Módulo de gestión de base de datos SQLite
 Optimizado para Streamlit con manejo de caché y conexiones
